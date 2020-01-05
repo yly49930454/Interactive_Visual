@@ -1,5 +1,5 @@
 # 国际贸易交互可视化PRD
-http://worldexports.pythonanywhere.com/
+* pythonanywhere URL：http://worldexports.pythonanywhere.com/
 ## 项目描述
 就全球进出口数据制作关于全球大事件与全球贸易之间的关系
 ## 产品目的
